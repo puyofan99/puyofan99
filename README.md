@@ -1,13 +1,24 @@
-### It starts with:
--    One thing, I don't know why
--    It doesn't even matter how hard you try
--    Keep that in mind, I designed this rhyme
--    To explain in due time all I know
--    Time is a valuable thing
--    Watch it fly by as the pendulum swings
--    Watch it count down to the end of the day
--    The clock ticks life away, it's so unreal
+<h1 align="center">Hi 👋, I'm puyofan99</h1>
+<h3 align="center">A New England person who's dumb.</h3>
 
+- 🔭 I’m currently working on **a whole lot of shit.**
 
-I have no regrets.
+- 👨‍💻 All of my games are available at [GameJolt](https://gamejolt.com/@breakingbadfunny).
 
+- 💬 Ask me about **anything of the sort.**
+
+- 📫 How to reach me **is Twitter, at @notpuyo**
+
+- ⚡ Fun fact: **PLAY DMC2.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/notpuyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notpuyo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Mixtape:</h3>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb6btyog11xml05ykc7a05jc9&unique={true|1|on|yes})
